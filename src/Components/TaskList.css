@@ -1,0 +1,14 @@
+.edit{
+    background-color: #5d5ddf;
+    color: aliceblue;
+    border-radius: 0.5rem;
+}
+.delete{
+    background-color: #ef3923;
+    color: antiquewhite;
+    border-radius: 0.5rem;
+}
+
+.comp{
+    border-radius: 0.5rem;
+}
